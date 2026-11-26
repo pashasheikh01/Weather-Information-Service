@@ -29,18 +29,18 @@ I also used JUnit to test the application's functionality without relying on the
 
 ### Current Weather
 
-![Current Weather](images/current-weather.png)
+<img width="675" height="497" alt="Screenshot 2026-11-26 161641" src="https://github.com/user-attachments/assets/26f773b9-06de-4d54-bc6f-b253655fc5c0" />
 
 Displays current weather information for a selected city.
 
 ### Weather Comparison
 
-![Weather Comparison](images/weather-comparison.png)
+<img width="670" height="382" alt="Screenshot 2026-11-26 161811" src="https://github.com/user-attachments/assets/8ae42c0a-bdb2-422e-b71e-486efb017a58" />
 
 Compares weather conditions between two cities.
 
 ### Automated Testing
 
-![Automated Testing](images/weather-tests.png)
+<img width="1043" height="398" alt="Screenshot 2026-11-26 161712" src="https://github.com/user-attachments/assets/4b8e962d-e050-47a9-a0ca-fe3628640792" />
 
 JUnit tests used to verify the application's functionality.
